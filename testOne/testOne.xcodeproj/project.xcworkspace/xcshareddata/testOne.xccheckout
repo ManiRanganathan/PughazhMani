@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>120B243E-942D-4235-A49F-2C757F1261EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testOne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FEF5F936-F1E4-4149-BA86-F194E2EC4588</key>
+		<string>https://github.com/ManiRanganathan/PughazhMani.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testOne/testOne.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FEF5F936-F1E4-4149-BA86-F194E2EC4588</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ManiRanganathan/PughazhMani.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FEF5F936-F1E4-4149-BA86-F194E2EC4588</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FEF5F936-F1E4-4149-BA86-F194E2EC4588</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PughazhMani</string>
+		</dict>
+	</array>
+</dict>
+</plist>
